@@ -3,7 +3,7 @@ name: Add model like runner
 on:
   push:
     branches:
-      - none # put main here when this is fixed
+      - test # put main here when this is fixed
   #pull_request:
   #  paths:
   #    - "src/**"
